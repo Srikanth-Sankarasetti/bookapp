@@ -1,0 +1,42 @@
+.book-container{
+    width: 350px;
+    min-height: 400px;
+}
+
+.book-image{
+    height: 400px;
+    width: 100%;
+    border-radius: 8px;
+}
+
+.list-data{
+    margin-bottom: 30px;
+}
+
+.title{
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.rating-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: darkgreen;
+    color:white;
+    gap:4px;
+    width: 60px;
+    height: 25px;
+    border-radius: 8px;
+}
+
+.rating-and-ratingcount-container{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.link-data{
+    text-decoration: none;
+    color: black;
+}

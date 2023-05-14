@@ -1,0 +1,57 @@
+.book-indetails-container{
+    margin-top: 30px;
+    margin-left: 12px;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+
+.singleImage{
+    height: 600px;
+    width: 400px;
+    border-radius: 10px;
+}
+
+.book-head{
+    font-family: "Roboto";
+    font-size: "25px";
+}
+
+.rate-and-review{
+    color:darkgrey;
+    font-family: "Roboto";
+}
+
+.gener-para{
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.span-element{
+    font-weight: bold;
+    color: black;
+}
+
+.description-head{
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.discription-para{
+    font-family: "Roboto";
+    color: dimgrey;
+    font-size: 20px;
+}
+
+.favorite-button{
+    margin-top: 40px;
+    width: 200px;
+    height: 30px;
+    background-color: darkslateblue;
+    outline: none;
+    border-top-style: none;
+    cursor: pointer;
+    color: white;
+    border-radius: 8px;
+}

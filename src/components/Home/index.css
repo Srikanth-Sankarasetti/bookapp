@@ -1,0 +1,15 @@
+.bool-list-ul{
+    list-style-type: none;
+    margin-left: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.loader{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    height: 60vh;
+}
